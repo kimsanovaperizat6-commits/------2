@@ -1,0 +1,6 @@
+{
+  "name": "Мануалдык терапевт | Омуртка | Бишкек",
+  "description": "Бишкектеги мануалдык терапевт. 15 жылдык тажрыйба. Омуртка жана моюн, бел, булчуңдар менен жеке иштөө жана массаж.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
